@@ -1,5 +1,6 @@
 # Ubuntu 20.04 Ansible Test Image
 
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 [![Release](https://github.com/CHPC-UofU/container-ubuntu2004-ansible/actions/workflows/release.yml/badge.svg)](https://github.com/CHPC-UofU/container-ubuntu2004-ansible/actions/workflows/release.yml)
 
 Ubuntu 20.04 container for Ansible playbook and role testing. 
